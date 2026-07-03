@@ -29,7 +29,7 @@ Actualmente, el repositorio cuenta con los siguientes módulos:
 - Integrar visualización de datos para la toma de decisiones.
 
 🤝 Contribuciones y Feedback
-|
+
 Como profesional en formación, estoy comprometido con la mejora continua. Si tienes sugerencias, optimizaciones para el código o ideas para nuevos módulos, ¡siéntete libre de abrir un Issue o enviarme un mensaje a través de LinkedIn!
 
 Desarrollado por: Brayan Fonseca Villanueva
