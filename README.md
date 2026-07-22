@@ -13,8 +13,6 @@ El sector financiero moderno requiere de profesionales capaces de integrar la l�
 - Entorno de desarrollo: Google Colab / VS Code.
 - Control de versiones: Git / GitHub.
 
-📂 Estructura del Repositorio
-Actualmente, el repositorio cuenta con los siguientes módulos:
 
 ### 📂 Estructura del Repositorio
 Actualmente, el repositorio cuenta con los siguientes módulos:
