@@ -19,8 +19,7 @@ Actualmente, el repositorio cuenta con los siguientes módulos:
 
 | Carpeta / Archivo | Descripción |
 | :--- | :--- |
-| `automatizacion_contable_python (1).py` | Script inicial para la detección de anomalías y saldos negativos en libros mayores. |
-|  conciliacion_bancaria.py |  Módulo automatizado de conciliación bancaria: Lee extractos bancarios en PDF con contraseña, limpia y estandariza datos numéricos, los cruza con el libro auxiliar contable (tipo Siigo) mediante pandas.merge, traduce los resultados a un lenguaje contable en español y genera un reporte detallado en Excel.
+|  conciliacion_bancaria.py |  Módulo automatizado de conciliación bancaria: Lee extractos bancarios en PDF con contraseña, limpia y estandariza datos numéricos, los cruza con el libro auxiliar contable (tipo Siigo) mediante pandas.merge, traduce los resultados a un lenguaje contable en español y genera un reporte detallado en Excel.|
 
 📈 Roadmap (Próximos pasos)
 - Implementar carga masiva de archivos Excel/CSV para conciliaciones.
